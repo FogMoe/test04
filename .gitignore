@@ -1,0 +1,4 @@
+# 忽略 Obsidian 的个人工作区配置
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
