@@ -21,3 +21,8 @@ cd test04
 
 # (可选) 关联上游仓库，方便同步更新
 git remote add upstream [https://github.com/FogMoe/test04.git](https://github.com/FogMoe/test04.git)
+
+```
+
+## 操作记录
+- 2026-01-14: GeYugong 成功初始化仓库，并添加了 gitignore 配置以优化项目结构。
